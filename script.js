@@ -40,5 +40,14 @@ $(document).ready(function() {
     });
 
     // When the scheduler is pulled up on a browser, the following will load any data that has been stored in localStorage.
-    $("data .toDo").val(localStorage.getItem("9 10 11 12 13 14 15 16 17"))
+    $("hour, .toDo").val(localStorage.getItem("9"));
+    // $("hour, .toDo").val(localStorage.getItem("10"));
+    // $("hour, .toDo").val(localStorage.getItem("11"));
+    // $("hour, .toDo").val(localStorage.getItem("12"));
+    // $("hour, .toDo").val(localStorage.getItem("13"));
+    // $("hour, .toDo").val(localStorage.getItem("14"));
+    // $("hour, .toDo").val(localStorage.getItem("15"));
+    // $("hour, .toDo").val(localStorage.getItem("16"));
+    // $("hour, .toDo").val(localStorage.getItem("17"));
+
 });
