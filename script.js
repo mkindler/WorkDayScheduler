@@ -1,7 +1,7 @@
 // Set current date within jumbotron at the top of the page.  The format of the date will read as ("Day of the Week", "Month" "Date Number").
 let currentDate = $("#currentDay").text(moment().format("dddd, MMMM Do"));
 
-// Retrieve the current number of hours
+// Retrieve the current number of hours available to be scheduled
 let currentHour = moment().hours();
 
 $(document).ready(function() {
