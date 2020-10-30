@@ -20,3 +20,36 @@ This application can be used by employees who would like a basic way to digitall
 
 ## Installation
 
+This project will require a user to have:
+* `Git Bash` (Windows), `Terminal` (Mac), or another application for executing commands to/from one's local machine.
+* Code editor installed, such as `Visual Studio Code`.
+* Access to `Bootstrap`, which is freely available online at https://getbootstrap.com/.
+* Access to `Moment.js`, which is freely available online at https://momentjs.com/.
+* Version control system, such as `GitHub`, to fork, clone, push, and pull the original repository, and to upload the final project to one's own version control system account.
+
+## Process
+
+This project began with some starter code for `HTML` and `CSS`, but additional `HTML` and all `jQuery` functionality needed to be added and created from scratch.
+
+* Time blocks were added to the `HTML` to create the individual rows needed for scheduling out the workdy from 9AM - 5PM.
+* The `JavaScript` file required the creation of a loop to go over all available time blocks to color-code hours based on the current time, the creation of a function to save data entered, and the ability to pull saved data from local storage.
+
+## Link to Deployed Website
+https://mkindler.github.io/WorkDayScheduler/
+
+## Demo of Deployed Website
+![Demo of Scheduling Events, Saving, and Reloading Page](work-day-scheduler-demo.gif)
+
+## Contributing
+
+Please open a New Issue via GitHub for pull requests on this project that includes a description of what you would like to change.
+
+## Acknowledgment
+
+* Trilogy Education Services
+* https://www.w3schools.com, with the following accessed and referenced as needed to set-up the `JavaScript` file
+    * [JavaScript String split Method](https://www.w3schools.com/jsref/jsref_split.asp)
+    * [jQuery val Method](https://www.w3schools.com/jquery/html_val.asp)
+* https://www.screencastify.com/
+* https://fontawesome.com/
+* Book:  <i>JavaScript & JQuery:  Interactive Front-End Web Development</i>, Jon Duckett
