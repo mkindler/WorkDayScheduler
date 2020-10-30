@@ -50,6 +50,10 @@ Please open a New Issue via GitHub for pull requests on this project that includ
 * https://www.w3schools.com, with the following accessed and referenced as needed to set-up the `JavaScript` file
     * [JavaScript String split Method](https://www.w3schools.com/jsref/jsref_split.asp)
     * [jQuery val Method](https://www.w3schools.com/jquery/html_val.asp)
+    * [jQuery attr Method](https://www.w3schools.com/jquery/html_attr.asp)
+    * [jQuery Selectors](https://www.w3schools.com/jquery/jquery_selectors.asp)
+    * [JavaScript parseInt Function](https://www.w3schools.com/jsref/jsref_parseint.asp)
+* [The complete guide to using localStorage in JavaScript apps](https://blog.logrocket.com/the-complete-guide-to-using-localstorage-in-javascript-apps-ba44edb53a36/)
 * https://www.screencastify.com/
 * https://fontawesome.com/
 * Book:  <i>JavaScript & JQuery:  Interactive Front-End Web Development</i>, Jon Duckett
